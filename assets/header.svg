@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+  <title id="title">Daiki Kumakura — mathematical biology, models and code</title>
+  <desc id="desc">A dark terminal-inspired banner with a cyan model curve and purple observations.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#253244" stroke-width="0.7"/>
+    </pattern>
+    <linearGradient id="curve" x1="0" x2="1">
+      <stop offset="0" stop-color="#5eead4"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="1198" height="258" rx="16" fill="#0d1117" stroke="#303d4e"/>
+  <rect x="756" y="26" width="418" height="208" rx="8" fill="url(#grid)"/>
+  <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace">
+    <text x="42" y="52" font-size="14" fill="#5eead4">~/DaikiKumakura</text>
+    <text x="42" y="129" font-size="45" font-weight="600" letter-spacing="-1.5" fill="#f0f6fc">Daiki Kumakura</text>
+    <text x="44" y="170" font-size="18" fill="#a9b7c9">mathematical biology / models / code</text>
+    <text x="44" y="222" font-size="13" fill="#7c8ea5">R · Python · quantitative analysis</text>
+  </g>
+  <g fill="none" stroke="#52657a" stroke-width="1">
+    <path d="M782 49V211H1147"/>
+    <path d="M776 82H788M776 146H788M847 205V217M975 205V217M1103 205V217"/>
+  </g>
+  <path d="M795 202C817 197 825 113 850 83C884 43 907 108 941 139C983 177 1045 190 1138 196" fill="none" stroke="url(#curve)" stroke-width="3" stroke-linecap="round"/>
+  <g fill="#c4b5fd" stroke="#0d1117" stroke-width="2">
+    <circle cx="810" cy="190" r="5"/><circle cx="839" cy="105" r="5"/>
+    <circle cx="866" cy="75" r="5"/><circle cx="914" cy="120" r="5"/>
+    <circle cx="958" cy="155" r="5"/><circle cx="1025" cy="190" r="5"/>
+    <circle cx="1110" cy="192" r="5"/>
+  </g>
+</svg>
