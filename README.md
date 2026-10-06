@@ -30,6 +30,13 @@ I work with dynamic models and quantitative data analysis. My current interests 
 
 ### Notes & analyses
 
-[Research articles and reproducible analyses](https://daikikumakura.github.io/writing.html) on public data, model estimation, diagnostics, uncertainty, and the limits of a conclusion.
+[Research articles and reproducible analyses](https://daikikumakura.github.io/writing.html) on public data, model estimation, diagnostics, uncertainty, and the limits of a conclusion. For example:
+
+- [When does individual information improve PK/PD prediction?](https://daikikumakura.github.io/writing/warfarin-pkpd.html) — warfarin PK/PD reanalysis
+- [Reimplementing a published mosunetuzumab population PK model](https://daikikumakura.github.io/writing/mosunetuzumab-public-pk.html) — step-up dosing exposure (in Japanese)
+- [Can matching average exposure alone set the tarlatamab dosing interval?](https://daikikumakura.github.io/writing/tcell-engager-regimen-design.html) — population PK simulation (in Japanese)
+- [Do early tumor measurements improve prediction of subsequent survival?](https://daikikumakura.github.io/writing/tumor-dynamics-survival.html) — landmark analysis
+
+All analyses by topic: [population PK, PK/PD, dose selection, tumor dynamics and immune biomarkers](https://daikikumakura.github.io/profile.html#selected-analyses).
 
 <p align="right"><samp><a href="https://daikikumakura.github.io/">daikikumakura.github.io ↗</a></samp></p>
