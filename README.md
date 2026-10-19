@@ -24,17 +24,21 @@ I work with dynamic models and quantitative data analysis. My current interests 
 | Project | What it does |
 | :--- | :--- |
 | [**pkident**](https://github.com/DaikiKumakura/pkident) | Structural and practical identifiability for PK/PD ODE models. R package, in development. |
+| [**rsemflow**](https://github.com/DaikiKumakura/rsemflow) | Downstream bulk RNA-seq analysis of RSEM gene-level results as TSV tables. R package and command-line tool. |
+| [**retiaudit**](https://github.com/DaikiKumakura/retiaudit) | Inspect Python selection hints for reticulate without starting Python. R package. |
 | [**CRiSM**](https://github.com/DaikiKumakura/CRiSM) | Concatenated ribosomal marker sequences for phylogenetic analysis. Python prototype. |
 | [**RLR_transform**](https://github.com/DaikiKumakura/RLR_transform) | Research scripts for compositional time series and Convergent Cross Mapping. |
 | [**ShotgunMetagenomics**](https://github.com/DaikiKumakura/ShotgunMetagenomics) | Container-based scripts for read processing and functional profiling. |
+
+The R packages are installable from [R-universe](https://daikikumakura.r-universe.dev). Each project has a page with its description, installation and related analyses on the [software page](https://daikikumakura.github.io/software.html).
 
 ### Notes & analyses
 
 [Research articles and reproducible analyses](https://daikikumakura.github.io/writing.html) on public data, model estimation, diagnostics, uncertainty, and the limits of a conclusion. For example:
 
 - [When does individual information improve PK/PD prediction?](https://daikikumakura.github.io/writing/warfarin-pkpd.html) — warfarin PK/PD reanalysis
-- [Reimplementing a published mosunetuzumab population PK model](https://daikikumakura.github.io/writing/mosunetuzumab-public-pk.html) — step-up dosing exposure (in Japanese)
-- [Can matching average exposure alone set the tarlatamab dosing interval?](https://daikikumakura.github.io/writing/tcell-engager-regimen-design.html) — population PK simulation (in Japanese)
+- [Reimplementing a published mosunetuzumab population PK model](https://daikikumakura.github.io/writing/mosunetuzumab-public-pk-en.html) — step-up dosing exposure
+- [Can matching average exposure alone set the tarlatamab dosing interval?](https://daikikumakura.github.io/writing/tcell-engager-regimen-design-en.html) — population PK simulation
 - [Do early tumor measurements improve prediction of subsequent survival?](https://daikikumakura.github.io/writing/tumor-dynamics-survival.html) — landmark analysis
 
 All analyses by topic: [population PK, PK/PD, dose selection, tumor dynamics and immune biomarkers](https://daikikumakura.github.io/profile.html#selected-analyses).
