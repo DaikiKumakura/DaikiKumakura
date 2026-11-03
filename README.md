@@ -40,6 +40,9 @@ The R packages are installable from [R-universe](https://daikikumakura.r-univers
 - [Reimplementing a published mosunetuzumab population PK model](https://daikikumakura.github.io/writing/mosunetuzumab-public-pk-en.html) — step-up dosing exposure
 - [Can matching average exposure alone set the tarlatamab dosing interval?](https://daikikumakura.github.io/writing/tcell-engager-regimen-design-en.html) — population PK simulation
 - [Do early tumor measurements improve prediction of subsequent survival?](https://daikikumakura.github.io/writing/tumor-dynamics-survival.html) — landmark analysis
+- [Capivasertib rest-day placement at the same weekly dose](https://daikikumakura.github.io/writing/capivasertib-rest-schedule-en.html) — public population PK simulation
+- [Does equal dose intensity imply equal Dato-DXd exposure?](https://daikikumakura.github.io/writing/dato-dxd-dose-intensity-en.html) — dose intensity versus exposure
+- [Gemcitabine infusion duration: plasma AUC and intracellular exposure](https://daikikumakura.github.io/writing/gemcitabine-infusion-en.html) — infusion regimen comparison
 
 All analyses by topic: [population PK, PK/PD, dose selection, tumor dynamics and immune biomarkers](https://daikikumakura.github.io/profile.html#selected-analyses).
 
