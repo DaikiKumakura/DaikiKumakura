@@ -26,11 +26,13 @@ I work with dynamic models and quantitative data analysis. My current interests 
 | [**pkident**](https://github.com/DaikiKumakura/pkident) | Structural and practical identifiability for PK/PD ODE models. R package, in development. |
 | [**rsemflow**](https://github.com/DaikiKumakura/rsemflow) | Downstream bulk RNA-seq analysis of RSEM gene-level results as TSV tables. R package and command-line tool. |
 | [**retiaudit**](https://github.com/DaikiKumakura/retiaudit) | Inspect Python selection hints for reticulate without starting Python. R package. |
+| [**bulkdeconv**](https://github.com/DaikiKumakura/bulkdeconv) | Estimate cell-type composition or abundance from human and mouse tumor bulk RNA-seq. R package. |
+| [**rsemverse**](https://github.com/DaikiKumakura/rsemverse) | Convert RSEM gene-level results into gene-by-sample count or TPM tables. R package. |
 | [**CRiSM**](https://github.com/DaikiKumakura/CRiSM) | Concatenated ribosomal marker sequences for phylogenetic analysis. Python prototype. |
 | [**RLR_transform**](https://github.com/DaikiKumakura/RLR_transform) | Research scripts for compositional time series and Convergent Cross Mapping. |
 | [**ShotgunMetagenomics**](https://github.com/DaikiKumakura/ShotgunMetagenomics) | Container-based scripts for read processing and functional profiling. |
 
-The R packages are installable from [R-universe](https://daikikumakura.r-universe.dev). Each project has a page with its description, installation and related analyses on the [software page](https://daikikumakura.github.io/software.html).
+See [R-universe](https://daikikumakura.r-universe.dev) for available R package builds and installation commands. The [software page](https://daikikumakura.github.io/software.html) links to documentation and related analyses.
 
 ### Notes & analyses
 
