@@ -7,6 +7,7 @@
     <a href="https://daikikumakura.github.io/profile.html">profile</a> &nbsp;·&nbsp;
     <a href="https://daikikumakura.github.io/writing.html">writing</a> &nbsp;·&nbsp;
     <a href="https://daikikumakura.github.io/software.html">software</a> &nbsp;·&nbsp;
+    <a href="https://daikikumakura.github.io/reference.html">glossary</a> &nbsp;·&nbsp;
     <a href="https://www.linkedin.com/in/daiki-kumakura-6b68a743a/">linkedin</a>
   </samp>
 </p>
@@ -32,7 +33,11 @@ I work with dynamic models and quantitative data analysis. My current interests 
 | [**RLR_transform**](https://github.com/DaikiKumakura/RLR_transform) | Research scripts for compositional time series and Convergent Cross Mapping. |
 | [**ShotgunMetagenomics**](https://github.com/DaikiKumakura/ShotgunMetagenomics) | Container-based scripts for read processing and functional profiling. |
 
-See [R-universe](https://daikikumakura.r-universe.dev) for available R package builds and installation commands. The [software page](https://daikikumakura.github.io/software.html) links to documentation and related analyses.
+See [R-universe](https://daikikumakura.r-universe.dev) for available R package builds and installation commands. The [software page](https://daikikumakura.github.io/software.html) links to documentation and related analyses. Each package has a Zenodo DOI (listed on its software page) and a `CITATION.cff` for citation.
+
+### Glossary
+
+[Pharmacometrics glossary and tools](https://daikikumakura.github.io/reference.html): short, sourced definitions (identifiability, shrinkage, exposure, AUPRC and more) with calculators.
 
 ### Notes & analyses
 
